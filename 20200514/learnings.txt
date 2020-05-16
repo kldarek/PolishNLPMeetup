@@ -1,0 +1,4 @@
+- it should be ok to allow some overbooking above google meet 100 person limit
+- google meet quality and livestream quality appeared to be ok
+- the person streaming to youtube (via OBS) should not be managing the google meet session at the same time (pop ups with new people requesting to join the meeting)
+- how to show the video thumbnail of the person presenting each session?
