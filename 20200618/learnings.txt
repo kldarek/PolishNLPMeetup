@@ -1,0 +1,6 @@
+- I tried to run the session with 2 computers - one recording via OBS, the second to manage the google meet session - this created a feedback loop and I needed to move google meet and OBS on the same laptop, which wasn’t the best setup. Recommend 2 different people/locations handle streaming/recording and google meet management
+- I forgot to change microphone settings in OBS studio and my voice wasn’t recorded at all
+- Fortunately I had backup recording by Lukasz - thanks to him we can share the video
+- Add more buffer between presentation length and meet up duration - we needed to hurry through some presentations given limited time 
+
+
