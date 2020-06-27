@@ -1,0 +1,7 @@
+List of potential presentation sessions:
+- Deepset - QA in production (via Henryk Borzymowski)
+- Text generation (Henryk Borzymowski)
+- Rasa chatbots (TBD)
+- Spacy - new Polish models (TBD)
+- Stanza (TBD)
+- narzędzie ewaluacyjne GEval - https://gitlab.com/filipg/geval#quick-tour (Filip Graliński)
